@@ -1,3 +1,6 @@
 Användare på Github: wnatvig
 Namn: William Natvig
 Epost: william@natvig.se
+Användare på Github: HjalmarBos
+Namn: Hjalmar Boström
+Epost: hjalmar.bostrom.6244@student.uu.se
